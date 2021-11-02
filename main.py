@@ -255,4 +255,4 @@ async def _test(ctx:SlashContext):
     await ctx.send("Hi Im A Test Response")
 
 
-client.run('OTA0NzIwMDY5NDQyMDExMTk4.YX_oOQ.SB5d4tBz4pTSNfT1S1_VzuZBdow')
+client.run('token')
